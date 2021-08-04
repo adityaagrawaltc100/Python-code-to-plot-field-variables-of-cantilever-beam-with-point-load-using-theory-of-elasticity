@@ -1,0 +1,1 @@
+# Python-code-to-plot-field-variables-of-cantilever-beam-with-point-load-using-theory-of-elasticity
